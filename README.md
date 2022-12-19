@@ -44,6 +44,9 @@ $ http://localhost:3000/
 
 👤 **Adebowale Adegboye**
 
+- GitHub: [@githubhandle](https://github.com/ademibowale)
+- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
 
 ## 🤝 Contributing
 
