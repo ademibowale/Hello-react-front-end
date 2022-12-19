@@ -1,13 +1,13 @@
 ## Table of Contents
 
-* [About the Project](#hello-react-frontend)
+* [About the Project](#hello-react-front-end)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Contributing](#🤝-contributing)
 * [Author](#author)
 
 
-#  hello-react-frontend
+#  hello-react-front-end
 This is a project to learn how to use React with Rails by Implementing a connection between a Ruby on Rails back-end and React front-end.
 
 ## Built With
